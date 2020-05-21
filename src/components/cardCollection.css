@@ -1,0 +1,28 @@
+.collection-container {
+    width: 90vmin;
+    height: 50vmax;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.App-logo {
+    height: 60vmin;
+    pointer-events: none;
+    position: fixed;
+    margin: auto;
+    left: 0;
+    right: 0;
+}

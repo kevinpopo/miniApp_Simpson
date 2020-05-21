@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f240a4d.chunk.css",
+    "main.js": "/static/js/main.eb420bf8.chunk.js",
+    "main.js.map": "/static/js/main.eb420bf8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.44793cd4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.44793cd4.js.map",
+    "static/js/2.ae2e1cb5.chunk.js": "/static/js/2.ae2e1cb5.chunk.js",
+    "static/js/2.ae2e1cb5.chunk.js.map": "/static/js/2.ae2e1cb5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.42914926840d7bd8d5cb0b8df9ad069d.js": "/precache-manifest.42914926840d7bd8d5cb0b8df9ad069d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9f240a4d.chunk.css.map": "/static/css/main.9f240a4d.chunk.css.map",
+    "static/js/2.ae2e1cb5.chunk.js.LICENSE.txt": "/static/js/2.ae2e1cb5.chunk.js.LICENSE.txt",
+    "static/media/all.png": "/static/media/all.7bb25df0.png",
+    "static/media/baby.png": "/static/media/baby.852dad5e.png",
+    "static/media/babyIcon.png": "/static/media/babyIcon.b6766ee3.png",
+    "static/media/dad.png": "/static/media/dad.3cfb1bb4.png",
+    "static/media/dadIcon.png": "/static/media/dadIcon.3af3452d.png",
+    "static/media/mom.png": "/static/media/mom.9e9b6bfd.png",
+    "static/media/monIcon.png": "/static/media/monIcon.ec51322d.png",
+    "static/media/sis.png": "/static/media/sis.007bc1dc.png",
+    "static/media/sisIcon.png": "/static/media/sisIcon.cb27f71f.png",
+    "static/media/son.png": "/static/media/son.f04b46aa.png",
+    "static/media/sonIcon.png": "/static/media/sonIcon.2869811e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44793cd4.js",
+    "static/js/2.ae2e1cb5.chunk.js",
+    "static/css/main.9f240a4d.chunk.css",
+    "static/js/main.eb420bf8.chunk.js"
+  ]
+}
